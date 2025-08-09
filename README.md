@@ -24,7 +24,7 @@ The final dashboard is **responsive, interactive, and visually appealing**, allo
 
 ### **1. Dashboard Overview**
 
-![Dashboard Overview]([images/dashboard_overview.png](https://github.com/Bkp108/Google_Play_Store_Data_Analysis/blob/main/FINAL_OUTPUT_PAGE.pdf))
+![Dashboard Overview](https://github.com/Bkp108/Google_Play_Store_Data_Analysis/blob/main/image.png)
 
 ---
 
@@ -51,5 +51,6 @@ The final dashboard is **responsive, interactive, and visually appealing**, allo
 Special thanks to **OpenAI ChatGPT** for guidance in debugging and improving code efficiency.
 
 ---
+
 
 
