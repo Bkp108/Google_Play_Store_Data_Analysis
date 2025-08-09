@@ -46,11 +46,5 @@ The final dashboard is **responsive, interactive, and visually appealing**, allo
 
 ---
 
-## 🤝 **Acknowledgements**
-
-Special thanks to **OpenAI ChatGPT** for guidance in debugging and improving code efficiency.
-
----
-
 
 
