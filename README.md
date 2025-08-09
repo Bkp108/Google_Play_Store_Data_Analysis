@@ -28,19 +28,6 @@ The final dashboard is **responsive, interactive, and visually appealing**, allo
 
 ---
 
-### **2. Top App Categories**
-
-![Top Categories](images/top_categories.png)
-
----
-
-### **3. Dual Axis Chart - Installs vs Revenue**
-
-*(Filtered for apps with specific conditions: installs ≥ 10K, revenue ≥ \$10K, Android version > 4.0, size > 15MB, content rating = Everyone, app name ≤ 30 chars)*
-![Installs vs Revenue](images/installs_vs_revenue.png)
-
----
-
 ## 📈 **Key Insights**
 
 * **Games, Tools, and Entertainment** dominate top installs and revenue.
@@ -64,4 +51,5 @@ The final dashboard is **responsive, interactive, and visually appealing**, allo
 Special thanks to **OpenAI ChatGPT** for guidance in debugging and improving code efficiency.
 
 ---
+
 
